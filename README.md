@@ -14,4 +14,12 @@ DefinitelyTyped-Contributors
 
 ### Json format
 
-    { "TYPING": [ { "name": "CONTRIBUTOR_NAME", "email": "CONTRIBUTOR_EMAIL", "gravatar": "CONTRIBUTOR_GRAVATAR" } ... ] ... }
+    { 
+        "TYPING": [ { 
+            "name": "CONTRIBUTOR_NAME", 
+            "email": "CONTRIBUTOR_EMAIL", 
+            "gravatar": "CONTRIBUTOR_GRAVATAR" 
+            } 
+            ... 
+        ]
+    ... }
