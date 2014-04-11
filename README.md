@@ -9,8 +9,8 @@ DefinitelyTyped-Contributors
 
 ### Generated files
 
-* index.html
-* dt-contrib.json
+* [index.html](https://github.com/Diullei/DefinitelyTyped-Contributors/blob/gh-pages/index.html)
+* [dt-contrib.json](https://github.com/Diullei/DefinitelyTyped-Contributors/blob/gh-pages/dt-contrib.json)
 
 ### Json format
 
